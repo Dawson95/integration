@@ -16,8 +16,8 @@ body {
 
 .paysage {
 
-    /* background-image: url("/img/principal.png"); */
-    background-image: url("/img/adana.png");
+    
+    background-image: url("/src/adana.png");
     background-repeat: no-repeat;
     background-size: 100vw 1000px;
     max-width: 100%;
@@ -53,5 +53,5 @@ body {
 
 }
 .img-1{
-    background-image: url("/img/ville.png");
+    background-image: url("/src/ville.png");
 }

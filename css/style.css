@@ -44,8 +44,8 @@ body{
 
 .paysage{
     
-    /* background-image: url("/img/principal.png"); */
-    background-image: url("/img/principal3.jpg");
+    
+    background-image: url("/src/principal3.jpg");
     background-repeat: no-repeat;
     background-size: 100vw 480px;
     max-width: 100%;
