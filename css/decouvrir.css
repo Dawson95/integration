@@ -47,9 +47,10 @@ body {
 }
 
 .contenue {
+    padding: 25px;
     margin: 0 auto;
     display: flex;
-    width: 25%;
+    width: 45%;
 
 }
 .img-1{
